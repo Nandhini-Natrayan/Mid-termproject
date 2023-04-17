@@ -2,19 +2,22 @@
 Mid-term project for the Ironhack
 
 
-GROUP MEMBERS : Yaren Merve AKIN, Nandhini NATRAYAN
+Group Members : Nandhini Natrayan
+                Yaren Merve Akin
 
-SUBJECT : Used Car Sales
+Subject :   Identifying the most important feature for the sale of used cars
 
-ADJECTIVE : Forecasting on the sales of the used cars based on the dataset we have.
+Adjective : Visualize how the sales and price of the used cars influenced by the different feature based on our dataset. Data visualization techniques that are going to be used in this project are filters, bins and forecast the future sales
 
-DESCRIPTION OF THE DATA : The dataset contains 8128 rows and 18 columns. The dataset shows us how many used cars have been sold from 1994 to 2020 with their prices.
+Description of the Data : The dataset contains 75k rows and 14 columns. The dataset shows us how many used cars have been sold from 1942 to 2022 with their prices.
 
-HIGH LEVEL PLAN FOR THE WEEK : 
-DAY 1 : EDA ( rename columns, lowercase, drop unwanted columns, filling NA, finding nulls, cleaning the rows and the names, unique values, unique couunts, removing the outliers, standardize the data)
+High Level Plan for the Week : 
 
-DAY 2 : Data cleaning, removing the typos, correcting datatypes
+DAY 1 : EDA ( rename columns, lowercase, drop unwanted columns, filling NA, finding nulls, cleaning the rows and the names, unique values, unique counts, removing the outliers, standardize the data)
+
+DAY 2 : Data cleaning, removing the wrong data types, checking the correlation between the input features
 
 DAY 3 : Create the dashboard
 
-DAY 4 : Presentation Preperation
+DAY 4 : Presentation Preparation
+

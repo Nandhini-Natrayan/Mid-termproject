@@ -3,7 +3,7 @@ Mid-term project for the Ironhack
 
 
 Group Members : Nandhini Natrayan
-                Yaren Merve Akin
+                ,Yaren Merve Akin
 
 Subject :   Identifying the most important feature for the sale of used cars
 
